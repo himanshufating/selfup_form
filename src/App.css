@@ -1,0 +1,7 @@
+input[type="text"] {
+  height: 60px;
+  width: 250px;
+  border: 5px solid balck;
+  border-radius:5px;
+  background-color: rgb(233, 174, 80);
+}
